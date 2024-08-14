@@ -1,7 +1,5 @@
 import pytest
-import importlib
-
-_1649 = importlib.import_module("leetcode.1649")
+import leetcode.leetcode_1649 as _1649
 
 testcases = [
     ([1, 5, 6, 2], 1),
