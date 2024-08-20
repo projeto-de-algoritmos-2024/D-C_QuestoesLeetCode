@@ -1,44 +1,24 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+# Questões do Leetcode Dividir e Conquistar
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 16/0007739  |  Guilherme Marques Rosa |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O projeto consiste da resolução de questões do [leetcode](https://leetcode.com/) com a tag `Divide and Conquer` e marcados com a dificuldade `hard`.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
+Para instalar as dependências necessárias, basta utilizar o comando `poetry install` na pasta raíz do projeto.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Todos os problemas resolvidos estão separados em arquivos diferentes com o número de identificação do problema. Foram feitos testes parametrizados utilizando a ferramenta `pytest` para cada um dos problemas selecionados. Para executar os testes basta rodar o comando: `poetry run pytest`.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Cada arquivo tem uma docstring no topo contendo um link para o problema no leetcode, para averiguar a solução basta copiar o código do arquivo e submeter como solução para o problema.
 
 
 
