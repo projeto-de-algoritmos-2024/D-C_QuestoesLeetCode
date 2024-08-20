@@ -9,7 +9,7 @@
 O projeto consiste da resolução de questões do [leetcode](https://leetcode.com/) com a tag `Divide and Conquer` e marcados com a dificuldade `hard`.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+[Vídeo](https://youtu.be/REgVw2hhZqM)
 
 ## Instalação 
 **Linguagem**: Python<br>
